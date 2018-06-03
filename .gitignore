@@ -1,0 +1,10 @@
+.idea
+.php_cs.cache
+.git
+tests/_reports
+tests/build
+.DS_Store
+phpunit.phar
+/vendor
+composer.phar
+composer.lock
